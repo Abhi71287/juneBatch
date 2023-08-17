@@ -1,7 +1,9 @@
 package day14_Collection_topic;
 
 import java.util.HashSet;
-
+//HashSet---------------------------------random order
+//LinkedHashSet----------------------will maintain the order
+//TreeSet---------------------------ascending order
 public class HashSet_Topic {
 	public static void main(String[] args) {
 		HashSet<Integer> hs = new HashSet<Integer>();

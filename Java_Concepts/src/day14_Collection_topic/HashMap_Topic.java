@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Set;
 
 public class HashMap_Topic {
-	
+	//Do not  Maintain the order and override the key values for duplicate key
 	public static void main(String[] args) {
 		HashMap<Integer,String> hm=new HashMap<Integer,String>();
 		hm.put(11, "Abhi");
