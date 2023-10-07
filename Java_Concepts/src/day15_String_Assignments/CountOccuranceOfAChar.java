@@ -16,7 +16,7 @@ public class CountOccuranceOfAChar {
 		}
 
 		System.out.println("The occurance of " + c + " is : " + j);
-	}
+	} 
 
 	public static void main(String[] args) {
 		CountOccuranceOfAChar.countOccuranceOfACharInGivenString("my name is abhishek", 'e');
